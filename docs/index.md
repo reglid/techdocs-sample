@@ -3,6 +3,7 @@
 This is a basic example of documentation.
 
 Blablabla
+More blablabla
 
 ```plantuml
 @startuml
